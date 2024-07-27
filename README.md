@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Debankana Bose</h1>
+<h1 align="center">Debankana here!</h1>
 <h3 align="center">bleh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankana&label=Profile%20views&color=0e75b6&style=flat" alt="debankana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debankana" alt="debankana" /></a> </p>
 
-- 🌱 I’m currently learning psyduck **from misti**
 
-- 📝 I regularly write articles on [death](death)
-
-- 📫 How to reach me **officialdebankana@gmail.com**
-
-- ⚡ Fun fact **I think I'm God..?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
